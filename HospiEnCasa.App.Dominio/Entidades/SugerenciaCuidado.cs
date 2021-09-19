@@ -3,7 +3,7 @@ using System;
 namespace HospiEnCasa.App.Dominio
 {
     /// <summary>Class <c>SugerenciaCuidado</c>
-    /// Modela las sugerencias de cuidado del Paciente
+    /// Modela las sugerencias de cuidado de los Paciente
     /// </summary>   
     public class SugerenciaCuidado 
     {
